@@ -17,7 +17,7 @@ Para la funcion para encriptar se usaron las siguientes llaves:
   * La letra "i" es convertida para "imes"
   * La letra "a" es convertida para "ai"
   * La letra "o" es convertida para "ober"
-* La letra "u" es convertida para "ufat"
+  * La letra "u" es convertida para "ufat"
 ![image](https://github.com/keatnis/encriptador/assets/95552515/f833c29f-493e-4a6f-bcee-30ad6f93f552)
 El mensaje encriptado se puede copiar dando clic en el boton copiar.
 - Funcion Desencriptar:
