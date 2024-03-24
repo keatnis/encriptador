@@ -1,6 +1,7 @@
 # Encriptador
 ![image](https://github.com/keatnis/encriptador/assets/95552515/707fbed5-667d-49f8-b7f7-bd01024f4c5f)
-Vista previa wn dispositivo movil
+Vista previa wn dispositivo movil. 
+
 ![image](https://github.com/keatnis/encriptador/assets/95552515/e40fe749-56d1-4747-b2aa-521608de130f)
 
 # Descripcion:
