@@ -1,5 +1,5 @@
 body {
-    font-family: "Roboto", sans-serif;
+    font-family: "Roboto";
     background: #D8DFE8;
 }
 
@@ -14,11 +14,13 @@ header {
     width: 75%;
     margin: 0 10em;
     padding: 20px 20px;
+    font-family: "Roboto";
 
 }
 
 
 .campo-inicio {
+
     display: inline-block;
     border: none;
     margin: 0 1em 0 3em;
