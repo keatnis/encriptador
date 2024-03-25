@@ -152,7 +152,7 @@ header {
     display: none;
     justify-content: center;
     /* box-sizing: border-box; */
-    height: 100%;
+    height: 95%;
     width: 95%;
     /* padding: 12px; */
     /* background-color: aqua; */
@@ -165,7 +165,7 @@ header {
     border: none;
     /* vertical-align: middle; */
     margin: 20px;
-    /* padding: 12px; */
+    padding: 20px 0;
     height: 80%;
     font-size: 24px;
     color: #495057;
